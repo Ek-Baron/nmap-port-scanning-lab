@@ -1,4 +1,4 @@
-# Project 07 - Nmap Port Scanning and Service Detection Lab
+# Supplementary Networking Lab 01 - Nmap Port Scanning and Service Detection Lab
 The objective of this lab was to learn how to use Nmap to scan a host for TCP ports and identify services running on open ports.
 I performed the experiment in my own controlled Linux environment by first scanning the host, then starting a Python HTTP server on port 8000 and scanning again to observe how the results changed.
 
